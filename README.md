@@ -21,5 +21,5 @@ I'm a passionate developer with a focus on **Shopify Custom Theme Development** 
 
 ---
 ### 🎯 Fun Fact
-When I'm making web applications, you'll probably find me making retro game projects, or minecraft plugins!
+When I'm not making web applications, you'll probably find me making retro game projects, or minecraft plugins!
 
