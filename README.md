@@ -14,7 +14,10 @@ I'm a passionate developer with a focus on **Shopify Custom Theme Development** 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Hydrogen-764ABC?style=for-the-badge&logo=hydrogen&logoColor=white" alt="Hydrogen" />
+  <img src="https://img.shields.io/badge/Liquid-6C42A7?style=for-the-badge&logo=shopify&logoColor=white" alt="Liquid" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
 </p>
+
 
 ---
 ### 🎯 Fun Fact
