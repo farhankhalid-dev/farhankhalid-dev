@@ -1,6 +1,6 @@
 ## Hi there! I'm Farhan Khalid
 
-I'm a passionate developer with a focus on **Shopify Custom Theme Development** and experience in **Python** and **Java**, also currently mastering the **MERN Stack**. I enjoy building responsive and interactive web applications, as well as diving into various backend technologies.
+I'm a passionate developer with a focus on **Shopify Custom Theme Development** with some experience in **Python**, currently exploring the **MERN** Stack. I enjoy building responsive and interactive web applications.
 
 ### Technologies & Tools
 <p align="left">
@@ -21,5 +21,4 @@ I'm a passionate developer with a focus on **Shopify Custom Theme Development** 
 
 ---
 ### Fun Fact
-When I'm not making web applications, you'll probably find me making retro game projects, or minecraft plugins!
-
+When I'm not making web applications, you'll probably find me TRYING to make retro game projects, or minecraft plugins!
